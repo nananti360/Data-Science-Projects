@@ -1,6 +1,7 @@
 # Data-Science-Projects
-Title: Unsupervised Network Intrusion Detection System using Isolation Forest
-Abstract & Project Overview
+TITLE: UNSUPERVISED NETWORK INTRUSION DETECTION SYSTEM USING ISOLATION FOREST
+
+ABSTRACT AND PROJECT OVERVIEW
 
 Network Intrusion Detection Systems (NIDS) are critical defense mechanisms designed to identify malicious activity and unauthorized access across modern computing infrastructure. Traditional signature-based detection models struggle against novel threats ("zero-day" attacks) because they rely on pre-existing attack signatures. To address this limitation, this project implements an unsupervised machine learning approach using the Isolation Forest algorithm.
 
